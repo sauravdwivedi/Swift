@@ -7,6 +7,10 @@ A collection of coding challenge solutions written in Swift. Coding challenge de
 - https://www.hackerrank.com/
 - https://code-exercises.com/
 
+For apps written in Swift, please refer to:
+
+- https://github.com/sauravdwivedi/Apps/tree/main/Swift
+
 ## Execution
 
 ### Clone repository  
